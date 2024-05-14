@@ -1,0 +1,9 @@
+//informações do herói 
+let nomeHeroi = "Ayla"
+let xpHeroi = 3.568
+
+if (xpHeroi < = 1.000) {
+console.log ("Ferro");
+}
+
+console.log (nomeHeroi)
